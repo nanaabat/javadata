@@ -1,2 +1,2 @@
-# javaPractise
-dataStructures 
+# java
+data structures 
